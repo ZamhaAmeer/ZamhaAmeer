@@ -1,7 +1,7 @@
 # Hi there, I'm Zamha...
 
 🎓 BSc (Hons) in Information Systems | 2nd Year @ Sabaragamuwa University of Sri Lanka  
-Passionate about Web Development, Software Engineering & Data Science  
+Passionate about Web Development 
 Currently learning React,Node.js  
 Love building projects that solve real-world problems  
 
