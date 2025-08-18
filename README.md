@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Zamha...
 
-<!--
-**ZamhaAmeer/ZamhaAmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) in Information Systems | 2nd Year @ Sabaragamuwa University of Sri Lanka  
+Passionate about Web Development, Software Engineering & Data Science  
+Currently learning React,Node.js  
+Love building projects that solve real-world problems  
 
-Here are some ideas to get you started:
+## 🔹 Projects
+[DiaSaver] – A health reminder app for diabetes patients  
+[React Group Project] – Collaborative web app built with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack
+Languages: JavaScript, Python, Java, SQL  
+Frontend: React,HTML,CSS 
+Databases: MySQL  
+Tools: Git, GitHub, VS Code  
+
+## 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/z-59a169344/
+Email:  zamhaameer855194@gmail.com
