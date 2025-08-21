@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=B22222&font=Fira+Code&center=true&vCenter=true&width=1000&lines=Hi+there!💁‍♀️+I'm+Zamha+Ameer)
 
 🎓 **BSc (Hons) in Information Systems** | 2nd Year @ Sabaragamuwa University of Sri Lanka  
-💻 Passionate about **Web Development** & **AI**  
+💻 Passionate about **Web Development**, **Cybersecurity** & **AI**  
    Currently learning: **React**, **Node.js**  
 🚀 Love building projects that **solve real-world problems**  
 
